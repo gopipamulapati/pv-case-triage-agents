@@ -1,0 +1,11 @@
+ADVERSE EVENT REPORT (synthetic data)
+Report received: 2026-09-26
+Reporter type: Physician
+Patient initials: L.B.
+Age: 33
+Sex: Female
+Suspect drug: Zentravir 200 mg twice daily
+Indication: Chronic viral infection
+Narrative: Patient developed a rash and headache on day 5. She was seen in the
+emergency department, given an antihistamine and discharged the same day.
+Outcome: Recovered

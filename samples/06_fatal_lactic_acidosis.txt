@@ -1,0 +1,13 @@
+ADVERSE EVENT REPORT (synthetic data)
+Report received: 2026-09-27
+Reporter type: Physician
+Reporter name: Samuel Okafor
+Patient initials: G.H.
+Age: 81
+Sex: Male
+DOB: 07/30/1945
+Suspect drug: Glucofen 1000 mg twice daily
+Indication: Type 2 diabetes
+Narrative: Patient with impaired renal function presented with lactic acidosis and was
+admitted to intensive care. Despite treatment the patient died four days later.
+Outcome: Fatal

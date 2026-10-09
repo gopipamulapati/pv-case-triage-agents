@@ -1,0 +1,11 @@
+ADVERSE EVENT REPORT (synthetic data)
+Report received: 2026-09-29
+Reporter type: Physician
+Patient initials: K.S.
+Age: 24
+Sex: Female
+Suspect drug: Novaxil 50 mg daily
+Indication: Migraine prevention
+Narrative: Patient had a first-ever seizure ten days after starting Novaxil and was
+admitted for neurological work-up.
+Outcome: Recovering

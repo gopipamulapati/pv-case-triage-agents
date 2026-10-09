@@ -1,0 +1,10 @@
+{
+  "01_angioedema_hospitalized.txt": {"priority": "priority", "serious": true, "events": ["Angioedema"]},
+  "02_liver_failure_unexpected.txt": {"priority": "expedited", "serious": true, "events": ["Jaundice", "Fatigue", "Hepatic enzyme increased", "Hepatic failure"]},
+  "03_nausea_not_admitted.txt": {"priority": "routine", "serious": false, "events": ["Nausea", "Diarrhoea"]},
+  "04_incomplete_consumer.txt": {"priority": "follow_up_required", "serious": null, "events": []},
+  "05_rash_emergency_department.txt": {"priority": "routine", "serious": false, "events": ["Rash", "Headache"]},
+  "06_fatal_lactic_acidosis.txt": {"priority": "priority", "serious": true, "events": ["Lactic acidosis"]},
+  "07_cough_negations.txt": {"priority": "routine", "serious": false, "events": ["Cough"]},
+  "08_unknown_product_seizure.txt": {"priority": "expedited", "serious": true, "events": ["Seizure"]}
+}

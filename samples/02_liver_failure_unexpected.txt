@@ -1,0 +1,15 @@
+ADVERSE EVENT REPORT (synthetic data)
+Report received: 2026-09-20
+Reporter type: Pharmacist
+Reporter name: Priya Natarajan
+Email: p.natarajan@example-pharmacy.com
+Patient initials: R.K.
+Age: 52
+Sex: Male
+MRN: ZX-771204
+Suspect drug: Zentravir 200 mg twice daily
+Indication: Chronic viral infection
+Narrative: Patient reported yellow eyes and fatigue three weeks into treatment.
+Labs showed raised ALT. He was hospitalized and diagnosed with acute liver failure.
+Treated by Dr. Helen Ortiz at 412 Maple Street. Zentravir was withdrawn.
+Outcome: Recovering

@@ -1,0 +1,18 @@
+ADVERSE EVENT REPORT (synthetic data)
+Report received: 2026-09-14
+Reporter type: Physician
+Reporter name: Alan Whitfield
+Phone: (555) 201-4417
+Patient name: Maria Delgado
+Patient initials: M.D.
+Age: 67
+Sex: Female
+DOB: 03/12/1959
+MRN: 00482913
+Suspect drug: Cardiolex 10 mg once daily
+Indication: Hypertension
+Narrative: Two weeks after starting Cardiolex the patient developed swollen lips and
+swelling of the tongue. She was admitted to hospital for observation and treated
+with antihistamines and steroids. Symptoms resolved within 48 hours. Cardiolex was
+discontinued.
+Outcome: Recovered

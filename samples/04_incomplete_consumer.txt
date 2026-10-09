@@ -1,0 +1,10 @@
+ADVERSE EVENT REPORT (synthetic data)
+Report received: 2026-09-25
+Reporter type: Consumer
+Phone: 555-388-9021
+Age: 70
+Sex: Male
+Suspect drug: "my new blood pressure pill"
+Narrative: Felt dizzy every morning since starting the new pill. Does not remember
+the name of the medicine.
+Outcome: Unknown

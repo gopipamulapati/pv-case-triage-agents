@@ -1,0 +1,11 @@
+ADVERSE EVENT REPORT (synthetic data)
+Report received: 2026-09-22
+Reporter type: Nurse
+Patient initials: T.W.
+Age: 45
+Sex: Female
+Suspect drug: Glucofen 500 mg twice daily
+Indication: Type 2 diabetes
+Narrative: Patient experienced nausea and loose stools during the first week of
+Glucofen. She was not admitted and symptoms settled with food. Continues treatment.
+Outcome: Recovered

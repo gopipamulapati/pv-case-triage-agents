@@ -1,0 +1,11 @@
+ADVERSE EVENT REPORT (synthetic data)
+Report received: 2026-09-28
+Reporter type: Pharmacist
+Patient initials: D.F.
+Age: 59
+Sex: Male
+Suspect drug: Cardiolex 20 mg once daily
+Indication: Hypertension
+Narrative: Persistent dry cough since starting Cardiolex. Patient denies chest pain
+and has no shortness of breath. No hospitalization required.
+Outcome: Not recovered
