@@ -20,6 +20,8 @@ It's served through **FastAPI**, packaged with **Docker**, and tested in **GitHu
 It runs fully offline by default, and the model is switched to **OpenAI** or **AWS Bedrock**
 with one environment variable.
 
+![Raw report with PHI, the redacted text the model sees, and the triage summary](docs/images/demo.png)
+
 > **Synthetic data only.** The products (Zentravir, Cardiolex, Glucofen), their labels,
 > the patients and the reports are all fictional. The event vocabulary is a small
 > illustrative list written for this project, **not MedDRA**. Timelines are simplified.
@@ -56,20 +58,7 @@ Guardrails built in:
 
 ## Architecture
 
-```mermaid
-flowchart LR
-    A[Raw report] --> P[redact_phi<br/>rules]
-    P --> E[extract<br/>LLM → JSON → Pydantic]
-    E --> V{validate<br/>4 minimum criteria}
-    V -->|invalid| T
-    V -->|valid| C[code_events<br/>negation-aware]
-    C --> S[seriousness<br/>ICH E2A]
-    C --> X[expectedness<br/>product label]
-    S --> T[triage<br/>priority + due date]
-    X --> T
-    T --> W[write<br/>summary + guardrails]
-    W --> O[TriageReport JSON]
-```
+![Architecture: redact PHI, extract, validate, code events, parallel seriousness and expectedness, triage, write](docs/images/architecture.png)
 
 ### Triage rules
 
@@ -167,6 +156,8 @@ curl -X POST localhost:8000/triage -H "content-type: application/json" \
 ```
 
 The response contains only redacted, structured data. Raw PHI values are never returned.
+
+![Interactive API docs (FastAPI / Swagger UI)](docs/images/api-docs.png)
 
 ## Project layout
 
