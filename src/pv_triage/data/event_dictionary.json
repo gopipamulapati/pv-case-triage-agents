@@ -1,0 +1,31 @@
+{
+  "_note": "Small illustrative vocabulary written for this project. It is NOT MedDRA, which is a licensed terminology.",
+  "terms": [
+    {"preferred_term": "Nausea", "body_system": "Gastrointestinal", "synonyms": ["nausea", "nauseous", "nauseated", "feeling sick"]},
+    {"preferred_term": "Vomiting", "body_system": "Gastrointestinal", "synonyms": ["vomiting", "vomited", "threw up", "emesis"]},
+    {"preferred_term": "Diarrhoea", "body_system": "Gastrointestinal", "synonyms": ["diarrhea", "diarrhoea", "loose stools"]},
+    {"preferred_term": "Abdominal pain", "body_system": "Gastrointestinal", "synonyms": ["abdominal pain", "stomach pain", "stomach ache", "belly pain"]},
+    {"preferred_term": "Headache", "body_system": "Nervous system", "synonyms": ["headache", "head ache"]},
+    {"preferred_term": "Dizziness", "body_system": "Nervous system", "synonyms": ["dizziness", "dizzy", "lightheaded", "light-headed"]},
+    {"preferred_term": "Syncope", "body_system": "Nervous system", "synonyms": ["syncope", "fainted", "passed out", "loss of consciousness"]},
+    {"preferred_term": "Seizure", "body_system": "Nervous system", "synonyms": ["seizure", "convulsion"]},
+    {"preferred_term": "Fatigue", "body_system": "General", "synonyms": ["fatigue", "tiredness", "exhaustion", "very tired"]},
+    {"preferred_term": "Rash", "body_system": "Skin", "synonyms": ["rash", "skin eruption"]},
+    {"preferred_term": "Urticaria", "body_system": "Skin", "synonyms": ["urticaria", "hives"]},
+    {"preferred_term": "Stevens-Johnson syndrome", "body_system": "Skin", "synonyms": ["stevens-johnson", "skin peeling", "blistering rash"]},
+    {"preferred_term": "Angioedema", "body_system": "Immune system", "synonyms": ["angioedema", "swollen lips", "swollen tongue", "swelling of the lips", "swelling of the tongue", "facial swelling"]},
+    {"preferred_term": "Anaphylactic reaction", "body_system": "Immune system", "synonyms": ["anaphylaxis", "anaphylactic"]},
+    {"preferred_term": "Hepatic enzyme increased", "body_system": "Hepatobiliary", "synonyms": ["elevated liver enzymes", "raised alt", "alt elevated", "transaminases increased", "abnormal liver function"]},
+    {"preferred_term": "Hepatic failure", "body_system": "Hepatobiliary", "synonyms": ["liver failure", "hepatic failure"]},
+    {"preferred_term": "Jaundice", "body_system": "Hepatobiliary", "synonyms": ["jaundice", "yellowing of the skin", "yellow eyes"]},
+    {"preferred_term": "QT prolongation", "body_system": "Cardiac", "synonyms": ["qt prolongation", "prolonged qt"]},
+    {"preferred_term": "Chest pain", "body_system": "Cardiac", "synonyms": ["chest pain"]},
+    {"preferred_term": "Hypotension", "body_system": "Vascular", "synonyms": ["hypotension", "low blood pressure"]},
+    {"preferred_term": "Cough", "body_system": "Respiratory", "synonyms": ["cough", "coughing"]},
+    {"preferred_term": "Dyspnoea", "body_system": "Respiratory", "synonyms": ["dyspnea", "dyspnoea", "shortness of breath", "difficulty breathing"]},
+    {"preferred_term": "Hyperkalaemia", "body_system": "Metabolism", "synonyms": ["hyperkalemia", "hyperkalaemia", "high potassium"]},
+    {"preferred_term": "Hypoglycaemia", "body_system": "Metabolism", "synonyms": ["hypoglycemia", "hypoglycaemia", "low blood sugar"]},
+    {"preferred_term": "Lactic acidosis", "body_system": "Metabolism", "synonyms": ["lactic acidosis"]},
+    {"preferred_term": "Acute kidney injury", "body_system": "Renal", "synonyms": ["acute kidney injury", "kidney failure", "renal failure"]}
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "_note": "Fictional products and reference safety information, written for this project.",
+  "products": {
+    "zentravir": {
+      "display_name": "Zentravir",
+      "class": "antiviral",
+      "listed_events": ["Nausea", "Headache", "Fatigue", "Diarrhoea", "Rash", "Hepatic enzyme increased"]
+    },
+    "cardiolex": {
+      "display_name": "Cardiolex",
+      "class": "antihypertensive",
+      "listed_events": ["Dizziness", "Cough", "Hypotension", "Fatigue", "Hyperkalaemia", "Angioedema"]
+    },
+    "glucofen": {
+      "display_name": "Glucofen",
+      "class": "antidiabetic",
+      "listed_events": ["Nausea", "Diarrhoea", "Abdominal pain", "Hypoglycaemia", "Lactic acidosis"]
+    }
+  }
+}
